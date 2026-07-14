@@ -1,0 +1,9 @@
+{
+  "app": "reiseplaner",
+  "enc": 1,
+  "kdf": "PBKDF2-SHA256-310000",
+  "alg": "AES-256-GCM",
+  "salt": "HZ/kYx/TemHH2g5rg3I4zQ==",
+  "iv": "022TDTd6Ap256RqC",
+  "data": "dmDxvbK5oNH+K3KNc4cRye+EW7S4Wt35syLs9KCm1wL77gsn6gpyrTNwBP42NlMXhF59DbOJMLmcC/yvRl2ijAey7fMfAziz873h7IR+7pdpsY2m9/0KppXTTMgcQ6KrJg33uVIh4edyhc4RJ+X2MywVbloO5wubXkBPN4RV6YDSN8fXssqtE3tGR6J4b9/FNC2milNzWVRiKx2v6n8u9qLYoSoc9dkyLvAr0k3n4T3l1s76BnPdVbTnQfpugSB+"
+}
